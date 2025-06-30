@@ -151,3 +151,7 @@ JupyterLab. Библиотеки: dill, matplotlib, numpy, pandas, scipy, sklear
  - Lada Vesta,
  - Volkswagen Polo.
 - Анализировать спрос на другие модели из топ-10.
+
+# Сложности
+
+Файлы слишком тяжелые для загрузки в GitHub
