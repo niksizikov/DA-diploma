@@ -102,6 +102,11 @@ JupyterLab. Библиотеки: dill, matplotlib, numpy, pandas, scipy, sklear
 - Наиболее целевой трафик приходит из "Other sources" с CR = 2.92%, что значительно выше, чем у рекламы в социальных сетях (CR = 1.47%).
 - Количество сессий из "Other sources" составляет 1,585,815, что в 6 раз превышает трафик из социальных сетей (274,227 сессий).
 
+![image](https://github.com/user-attachments/assets/0d1e01a3-466e-4980-a096-380d221b7d89)
+
+![image](https://github.com/user-attachments/assets/0d32c53c-4ba3-4600-9016-7cbc9b3d6e88)
+
+
 2. Кампании
 
 - Кампании с самым высоким CR (Conversion Rate) — "JkhCpeDGCtTwhwqWLywv" и "MHdHrBKQwbDaRalwnlJq" с CR = 100%. Однако эти кампании имеют лишь по одной сессии и одной конверсии.
@@ -111,6 +116,9 @@ JupyterLab. Библиотеки: dill, matplotlib, numpy, pandas, scipy, sklear
 
 - Самое эффективное устройство по CR — desktop (3.13%), за ним следуют mobile (2.60%) и tablet (2.30%).
 - Несмотря на это, наибольшее количество трафика идёт с mobile устройств: 1,474,871 сессий и 38,379 конверсий. Это может быть связано с большей доступностью мобильных устройств.
+
+![image](https://github.com/user-attachments/assets/1d09e3bf-bece-46c4-92a9-26b6ab7acf5a)
+
 
 4. Локации
 
@@ -122,10 +130,15 @@ JupyterLab. Библиотеки: dill, matplotlib, numpy, pandas, scipy, sklear
 - Топ-10 популярных марок:
  - Лидеры: Skoda (744,516 сессий), Mercedes-Benz (472,316 сессий), Volkswagen (417,128 сессий).
 
+![image](https://github.com/user-attachments/assets/25b36e57-334d-4b8b-9409-5b670e257c31)
+
 Эти бренды занимают лидирующие позиции по популярности среди пользователей.
 
 - Топ-10 популярных моделей:
  - Лидеры: Skoda Rapid (442,513 сессий), Lada Vesta (403,910 сессий), Volkswagen Polo (318,075 сессий).
+
+![image](https://github.com/user-attachments/assets/e49065af-fd04-4f48-977e-526dd4e78287)
+
 
 6. Социальные сети
 
@@ -134,6 +147,9 @@ JupyterLab. Библиотеки: dill, matplotlib, numpy, pandas, scipy, sklear
  - Конверсий: 0
  - CR: 0%
 По сравнению с остальными источниками (CR = 2.71%), социальные сети не приносят целевого трафика.
+
+![image](https://github.com/user-attachments/assets/730a0ca2-af02-4f9c-9f5a-28d066c2441c)
+
 
 7. Рекомендации:
 
